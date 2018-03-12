@@ -3,7 +3,7 @@
 Claw arm Program (Example of game programming) Spring 2016
 
 ## Description:
-- This was a class project where we learned advanced C++ techniques by creating a group of programs to control a robotic arm.
+- This was a class project where I learned advanced C++ techniques by creating a group of programs to control a robotic arm.
 - I was able to apply the math I learned in calculus and linear algebra into this program to calculate points to draw lines and circles.
 - I was able to create multiple classes that all worked together to draw pictures using the robotic arm onto a whiteboard.
 
